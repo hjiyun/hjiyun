@@ -36,7 +36,6 @@ Bayesian Computation · LLM/RAG · Synthetic Data · Multimodal AI
 
 | Repository | 설명 | 핵심 기술 |
 |---|---|---|
-| [`rag`](https://github.com/hjiyun/rag) | RAG 기반 금융 심사 설명 시스템 | EXAONE, FAISS, LangChain |
 | [`SGMCMC-KF`](https://github.com/hjiyun/SGMCMC-KF) | 스트리밍 시계열 이상치 탐지 | SGMCMC, Kalman Filter, Kafka |
 | [`synthetic-data-tbt-detection`](https://github.com/hjiyun/synthetic-data-tbt-detection) | AdsGAN 기반 식품 TBT 탐지 — RF **87% → 96%**, F1 **+33%p** | AdsGAN, Random Forest |
 | [`fda-compliance-sql`](https://github.com/hjiyun/fda-compliance-sql) | FDA 식품 라벨링 규제 준수 SQL 시스템 | SQL, 데이터 모델링 |
