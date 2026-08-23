@@ -1,6 +1,6 @@
 ## 홍지윤 (Jiyun Hong) · 이력 상세
 
-고려대학교 빅데이터사이언스학과 석사과정 (2025.09 ~ 2027.02 졸업예정) · 지도교수 전수영
+고려대학교 빅데이터사이언스학과 석사과정 (2025.09 ~ 2027.02 졸업예정)
 Bayesian Computation · LLM / RAG · Synthetic Data · Time-series Anomaly Detection
 
 통계적 추론과 생성형 AI를 결합해 **불확실성을 정량화하고 설명 가능한 의사결정**을 만드는 데 관심이 있습니다.
