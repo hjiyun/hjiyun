@@ -95,7 +95,7 @@ JKDAS 제1저자 게재 2편, 연구 설계부터 데이터 전처리 · 모델�
 
 ### Contact
 
-- Email : julie2302@korea.ac.kr
+- Email : julie2302@naver.com
 - GitHub : [github.com/hjiyun](https://github.com/hjiyun)
 
 ---
